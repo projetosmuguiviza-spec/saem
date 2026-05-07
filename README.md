@@ -141,7 +141,7 @@ git push origin nome-da-branch
 
 ---
 
-## 📋 Páginas do Site
+## Páginas do Site
 
 - `/` — Página inicial
 - `/sobre` — Sobre a SAEM
@@ -154,7 +154,7 @@ git push origin nome-da-branch
 
 ---
 
-## 🎯 Missão
+## Missão
 
 > A Ciência ao Serviço do Desenvolvimento
 
@@ -162,12 +162,12 @@ A SAEM é uma sociedade académica  criada por estudantes de engenharia para pro
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projecto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
 <p align="center">
-  Feito com ❤️ pela Equipa SAEM — Moçambique 🇲🇿
+  Feito pela SAEM
 </p>
